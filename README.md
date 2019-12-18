@@ -18,7 +18,7 @@ Specifications as per Udacity course requirements can be found [here](./document
 
 ## Instructions
 
-This is project is more of a tutorial to follow not a downloadable / usable solution. To recreate the project follow the Udacity project instructions found [here](./documentation/project_specifications.md). Reference provided Jenkinsfile as a reference if you have issues. 
+This is project is more of a tutorial to follow not a downloadable / usable solution. To recreate the project follow the Udacity project instructions found [here](./documentation/project_specifications.md). Use provided Jenkinsfile as a reference if you have issues. 
 
 ***In the Repo***
 
