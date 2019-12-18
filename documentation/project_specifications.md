@@ -92,7 +92,7 @@ Lastly, install Jenkins and its dependencies:
 
 If all went well, the first lines of the output will show that the service is active and configured to start at boot, as shown below:
 
-# TODO: screen-shot-2019-07-15-at-1.17.49-pm.png
+![Example](./project_specification_images/screen-shot-2019-07-15-at-1.17.49-pm.png)
 
 #### Set Up Jenkins
 
@@ -275,7 +275,7 @@ The build should now FAIL at the linting step, because the HTML is invalid and h
 
 Please note the "Upload complete" message, and the "Lint HTML" step showing as the first item after "Start."
 
-# TODO: screen-shot-2019-07-15-at-3.01.35-pm.png
+![Example](./project_specification_images/screen-shot-2019-07-15-at-1.17.49-pm.png)
 
 ## Rubric
 
