@@ -23,7 +23,11 @@ This is project is more of a tutorial to follow not a downloadable / usable solu
 ***In the Repo***
 
 ***Jenkinsfile*** - The main Jenkinsfile for this pipeline
+
 ***index.html*** - The static website file
+
 ***README.md*** - This document  
+
 ***/documentation*** - Additional documents
+
 ***/submission*** - Files submitted for Udacity course requirements not needed to follow this project.
